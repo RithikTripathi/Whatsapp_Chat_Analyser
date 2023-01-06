@@ -1,0 +1,3 @@
+to activate venv
+
+conda activate D:\iNeuronDataScience\Projects\Whatsapp-Chat-Analysis\Whatsapp_Chat_Analyser\WhatsappChatAnalyserVENV
