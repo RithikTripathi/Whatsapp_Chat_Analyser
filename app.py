@@ -1,6 +1,7 @@
 import streamlit as st
 import matplotlib.pyplot as plt
 import seaborn as sns
+import Analyser
 from Analyser.util import preprocess
 from Analyser.component.statistics import stats
 from Analyser.component.timeline import timeline
